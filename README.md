@@ -71,22 +71,10 @@ Self-taught developer from the United States. I work across the full stack — f
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialnulltpr&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </picture>
 
-<br/>
+---
 
-<picture>
-<img src="https://github-readme-stats.vercel.app/api?username=officialnulltpr&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" />
-</picture>
+*"The measure of intelligence is the ability to change."* — Albert Einstein
 
-<br/>
-
-<picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialnulltpr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" />
-</picture>
-
-<br/>
-
-<picture>
-<img src="https://github-profile-trophy.vercel.app/?username=officialnulltpr&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies" />
-</picture>
+**Coeus** · Titan of Intellect · Pillar of the North
 
 </div>
