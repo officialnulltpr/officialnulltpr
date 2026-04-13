@@ -28,6 +28,8 @@ Self-taught developer from the United States. I work across the full stack — f
 ### What I Work On
 - Reverse engineering and binary analysis
 - Unreal Engine internals
+- DMA technology research
+- FPGA firmware development
 - Secure SaaS platform development
 - Licensing and payment infrastructure
 - API design and backend architecture
@@ -65,19 +67,20 @@ Self-taught developer from the United States. I work across the full stack — f
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=officialnulltpr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=officialnulltpr&theme=github-dark-blue&hide_border=true" />
-</td>
-</tr>
-</table>
+<a href="https://github.com/officialnulltpr">
+<img src="https://github-readme-stats.vercel.app/api?username=officialnulltpr&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialnulltpr&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/officialnulltpr">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=officialnulltpr&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</a>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=officialnulltpr&theme=darkhub&no-frame=true&column=7&margin-w=10)
+<a href="https://github.com/officialnulltpr">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialnulltpr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</a>
+
+<a href="https://github.com/officialnulltpr">
+<img src="https://github-profile-trophy.vercel.app/?username=officialnulltpr&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+</a>
 
 </div>
